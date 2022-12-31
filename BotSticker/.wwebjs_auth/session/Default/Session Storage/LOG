@@ -1,0 +1,5 @@
+2022/12/22-18:29:57.908 14ec Recovering log #28
+2022/12/22-18:29:57.908 14ec Level-0 table #31: started
+2022/12/22-18:29:57.917 14ec Level-0 table #31: 261 bytes OK
+2022/12/22-18:29:57.933 14ec Delete type=0 #28
+2022/12/22-18:29:57.933 14ec Delete type=3 #26

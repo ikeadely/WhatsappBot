@@ -1,0 +1,78 @@
+[1222/121201.860:WARNING:backend_impl.cc(1630)] Messed up entry found.
+[1222/121201.861:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121203.338:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121203.338:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121213.484:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/121215.385:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.52db4b3dce3bc3480cc5.worker.js (1)
+[1222/121215.389:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1222/121217.664:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1222/121220.000:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.ae7c9071ac6bdfd06f8e.js (7)
+[1222/121221.733:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121221.735:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121221.736:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121221.736:WARNING:backend_impl.cc(1826)] Destroying invalid entry.
+[1222/121237.987:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/121237.990:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/122233.234:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1222/122233.235:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\GPUCache to C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\old_GPUCache_000
+[1222/122233.236:ERROR:disk_cache.cc(192)] Unable to create cache
+[1222/122233.236:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1222/122235.297:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1222/122235.297:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\Cache\Cache_Data to C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[1222/122235.297:ERROR:disk_cache.cc(192)] Unable to create cache
+[1222/122236.291:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[1222/122247.629:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[1222/122250.486:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[1222/122309.572:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1222/122309.572:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\GPUCache to C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\old_GPUCache_000
+[1222/122309.572:ERROR:disk_cache.cc(192)] Unable to create cache
+[1222/122309.572:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1222/122457.978:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122457.979:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/122504.348:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122504.364:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/122509.432:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122509.432:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/122514.565:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122514.566:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/122516.620:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122516.620:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/122517.716:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/122523.348:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/122523.349:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/122523.863:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/122524.575:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123212.571:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123212.578:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123217.720:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123217.720:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/123221.753:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123221.760:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123226.876:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123226.877:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/123228.910:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123228.910:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123230.686:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123234.034:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123234.267:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123234.446:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123234.447:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/123619.175:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123619.176:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123624.433:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123624.434:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/123629.340:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123629.340:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123634.659:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123634.659:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/123636.736:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123636.737:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[1222/123637.931:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123642.325:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123642.340:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[1222/123642.950:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\adel\WhatsappBot\BotSticker\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1222/123642.950:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[1222/130502.098:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1222/130502.621:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1222/130502.801:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1222/130502.803:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
